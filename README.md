@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/afzalzbr"><img src="https://api.daily.dev/devcards/95b9758fd4ca45289787f97881104138.png?r=iu5" width="400" alt="Afzal Zubair's Dev Card"/></a>
